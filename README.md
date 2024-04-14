@@ -1,7 +1,7 @@
 ## SQL Problems (beecrowd)
 
-> Solutions/Accepted submissions for Beecrowd SQL Problems
-> [beecrowd SQL](https://judge.beecrowd.com/en/problems/index/9)
+>Solutions/Accepted submissions for Beecrowd SQL Problems
+>[beecrowd SQL](https://judge.beecrowd.com/en/problems/index/9)
 
 | Problem Number | Problem Name | Solution |
 | -------------- | ------------ | -------- |
