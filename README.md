@@ -6,4 +6,4 @@
 
 | Problem Number | Problem Name | Solution |
 | -------------- | ------------ | -------- |
-| [BEE 2602](https://judge.beecrowd.com/en/problems/view/2602) | Basic Select | [BEE2602]([https://github.com/zlucasftw/beecrowd-sql-problems/tree/main/Problems/BEE2062](https://github.com/zlucasftw/beecrowd-sql-problems/blob/main/Problems/BEE2062/BEE2062.sql) | 
+| [BEE 2602](https://judge.beecrowd.com/en/problems/view/2602) | Basic Select | [BEE2602](https://github.com/zlucasftw/beecrowd-sql-problems/blob/main/Problems/BEE2062/BEE2062.sql) | 
